@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36705'
     url: http://www.gutenberg.org/2009/agents/36705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34044#Bee-Huntingto-Line-Bees-to-Trees-Etc.
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Insects
