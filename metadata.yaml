@@ -1,0 +1,30 @@
+_repo: Bee-Huntingto-Line-Bees-to-Trees-Etc._34044
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lockard, John Ready
+    birthdate: 1858
+    gutenberg_agent_id: '36705'
+    url: http://www.gutenberg.org/2009/agents/36705
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Insects
+gutenberg_issued: '2010-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34044'
+  lccn: 08029350
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bees'
+- !lcc 'SF'
+title: "Bee Hunting: A Book of Valuable Information for Bee Hunters\r\nTells How to\
+  \ Line Bees to Trees, Etc."
+url: http://www.gutenberg.org/ebooks/34044
